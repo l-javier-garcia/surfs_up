@@ -15,14 +15,6 @@ Data Provided gave us a visibility that on months of June and December, our loca
 * 75% of 77.00
 * Max of 85.00
 
-
-**June Temps - Report**
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/surfs_up/blob/main/Resources/Images/1.4.PNG?raw=true)
-
-
-
 **December Temps - Analysis and Result**
 * Count of 1517 
 * Mean of 71.04 
@@ -34,16 +26,8 @@ Data Provided gave us a visibility that on months of June and December, our loca
 * Max of 83.00
 
 
-**December Temps - Report**
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/surfs_up/blob/main/Resources/Images/2.4.PNG?raw=true)
-
-
-3. **Summary:** Based on our Data Analysis, Data Provided, we can state as a high-level summary of results that Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between both seasons.
- 
-    In addition, current data provide attributes such precipitation and others, with two queries that our analysis pursue, performing weather data for June and December that helps results to decide how we would like to build the shop and what areas would make this location attractive to visitors to stop by and have a successful business.
-
-
 ## Summary
 
+Based on our Data Analysis, Data Provided, we can state as a high-level summary of results that Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between both seasons.
+ 
+In addition, current data provide attributes such precipitation and others, with two queries that our analysis pursue, performing weather data for June and December that helps results to decide how we would like to build the shop and what areas would make this location attractive to visitors to stop by and have a successful business.
